@@ -69,6 +69,11 @@ This approach explains why the model contains a single FactEncounter table inste
 * Introduce department-level wait time analysis
 * Expand metrics (e.g., readmission rate, throughput efficiency)
 
+## Author
+
+Vladimir Sobur
+Data Analyst | Power BI | SQL
+
 
 
 
